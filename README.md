@@ -13,7 +13,7 @@ I build **AI systems that solve real-world problems** — from **drone detection
 - ⚙️ Director of Technology Management  
 - 🚀 CEO @ KpiChat.ai  
 - 🌎 Driving AI adoption across LATAM  
-- 🔬 Focus: Computer Vision, ML, AI Systems, Automation  
+- 🔬 Focus: Computer Vision, ML, AI Systems, Automation, AI Agents, Gen AI, MCP, Skills  
 
 ---
 
