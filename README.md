@@ -79,7 +79,7 @@ Custom enterprise chatbots using company data and LLMs.
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: [https://linkedin.com/in/TU-LINK](https://www.linkedin.com/in/gustavovelandia/)
+- 💼 LinkedIn: https://www.linkedin.com/in/gustavovelandia/
 - 🌐 Website: www.kpichat.ai
 - 📧 Email: gustavovelandia@kpichat.ai
 
