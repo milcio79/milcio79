@@ -1,35 +1,91 @@
 # 🚀 Gustavo Velandia
 
 ### 🧠 AI Engineer | Data Scientist | Naval Tech Leader  
-### 🤖 Computer Vision • Predictive Maintenance • AI Systems
+### 🤖 Computer Vision • Intelligent Agents • Predictive Maintenance
 
 ---
 
 ## 👋 About Me
 
-I build **AI systems that solve real-world problems** — from **drone detection** to **predictive maintenance** and **intelligent business automation**.
+I build **AI systems that solve real-world problems**, from **drone detection** to **intelligent agents** and **predictive maintenance systems**.
 
 - 🛡️ +28 years in the Colombian Navy  
 - ⚙️ Director of Technology Management  
 - 🚀 CEO @ KpiChat.ai  
 - 🌎 Driving AI adoption across LATAM  
-- 🔬 Focus: Computer Vision, ML, AI Systems, Automation, AI Agents, Gen AI, MCP, Skills  
+- 🔬 Focus: AI Systems, Computer Vision, Autonomous Agents, Automation  
 
 ---
 
-## ⚡ What I Do
+## 🚀 Featured Areas
 
-- 🚁 **Drone detection systems (Computer Vision & AI)**
-- 🔧 **Predictive maintenance with Machine Learning**
-- 🤖 **AI-powered ERP & CRM systems**
-- 🔄 **Automation with n8n & AI agents**
-- 📊 **Data-driven decision systems**
+### 🤖 Intelligent Agents & Autonomous Systems
+Design and deployment of AI agents capable of reasoning, decision-making, and executing real-world tasks.
+
+- 🧠 Multi-agent systems for complex workflows  
+- 🔄 Autonomous task execution using LLMs  
+- 🔗 Tool-augmented agents (APIs, DBs, workflows)  
+- 🗂️ Memory-enabled agents with vector databases (RAG)  
+- ⚙️ Integration with n8n, APIs and enterprise systems  
+
+---
+
+### 👁️ Computer Vision Systems
+- 🚁 Drone detection using YOLO and multimodal data  
+- 🎯 Object detection & tracking pipelines  
+- 📡 Real-world deployment scenarios  
+
+---
+
+### 🔧 Predictive Maintenance
+- ML models for failure prediction  
+- Time-series analysis  
+- Data-driven maintenance strategies  
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 AI Agent for Business Automation
+End-to-end intelligent agent that interprets user intent and executes real actions.
+
+- Natural language interaction  
+- Dynamic SQL execution  
+- Workflow automation (n8n)  
+- CRM/ERP integration  
+
+---
+
+### 🧠 Multi-Agent Enterprise System
+Distributed AI agents collaborating to solve complex operational problems.
+
+- Task delegation between agents  
+- Modular architecture  
+- Scalable design  
+
+---
+
+### 💬 RAG-Based AI Assistant
+Context-aware assistant powered by embeddings and vector databases.
+
+- ChromaDB integration  
+- Semantic search  
+- LangChain pipelines  
+
+---
+
+### ⚙️ AI-Powered ERP (NovaERP)
+Natural language interface for business operations.
+
+- CRUD via natural language  
+- Automated reports  
+- Supabase integration  
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages & Core
+### 💻 Core
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 
@@ -39,7 +95,7 @@ I build **AI systems that solve real-world problems** — from **drone detection
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-E34F26?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![ScikitLearn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Transformers](https://img.shields.io/badge/Transformers-FFD21F?style=for-the-badge)
 
 ---
@@ -60,7 +116,7 @@ I build **AI systems that solve real-world problems** — from **drone detection
 ### 🧠 RAG / LLM Systems
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-5A4FCF?style=for-the-badge)
-![Vector Store](https://img.shields.io/badge/Vector%20DB-003B57?style=for-the-badge)
+![Vector DB](https://img.shields.io/badge/Vector%20Database-003B57?style=for-the-badge)
 
 ---
 
@@ -74,35 +130,17 @@ I build **AI systems that solve real-world problems** — from **drone detection
 
 ---
 
-## 📊 GitHub Stats
+## 📈 Contribution Activity
 
-![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=milcio79&show_icons=true&theme=radical)
+> Consistent development and real-world AI implementation 🚀
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milcio79&layout=compact&theme=radical)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=milcio79&theme=radical)
-
----
-
-## 🚀 Featured Projects
-
-### 🚁 AI Drone Detection System
-Computer vision system for UAV detection using YOLO and multimodal data.
-
-### 🔧 Predictive Maintenance AI
-ML models for predicting failure in naval engines and industrial systems.
-
-### 🤖 Intelligent ERP (NovaERP)
-ERP system controlled via natural language using AI agents and automation.
-
-### 💬 AI Chatbots (RAG Systems)
-Custom enterprise chatbots using company data and LLMs.
+<!-- Este espacio deja visible tu gráfico de contribuciones automáticamente -->
 
 ---
 
 ## 🌎 Vision
 
-> Building AI systems that transform industries, enhance decision-making, and create real-world impact.
+> Building AI systems that create real-world impact across industries.
 
 ---
 
@@ -116,4 +154,4 @@ Custom enterprise chatbots using company data and LLMs.
 
 ## ⚡ Fun Fact
 
-I don’t just build models… I build **systems that actually work in the real world** 🚀
+I don’t just build models… I build **AI systems that actually work in production** 🚀
