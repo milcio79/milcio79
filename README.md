@@ -1,6 +1,6 @@
 # 🚀 Gustavo Velandia
 
-### 🧠 AI Engineer | Data Scientist | Naval Tech Leader  
+### 🧠 ML/AI Engineer | Data Scientist | Naval Tech Leader  
 ### 🤖 Computer Vision • Intelligent Agents • Predictive Maintenance
 
 ---
